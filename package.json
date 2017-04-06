@@ -2,7 +2,7 @@
     "name": "mongomart",
     "version": "0.1.0",
     "description": "Ecommerce app Using the MongoDB driver and Express",
-    "main": "app.js",
+    "main": "mongomart.js",
     "scripts": {
         "start": "node mongomart.js"
     },
